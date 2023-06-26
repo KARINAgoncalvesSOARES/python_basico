@@ -1,1 +1,1 @@
-# python_intermediario
+Python básico.
